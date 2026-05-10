@@ -31,24 +31,9 @@ curl -X POST https://universal-ai-proxy.vercel.app/api/route \
   "messages": [{"role": "user", "content": "你好！请介绍一下自己"}]
 }'
 📌 支持的模型
-表格
 model 名称	对应大模型
 deepseek-chat	DeepSeek 对话模型
+
 📄 许可证
 MIT License
 plaintext
-
----
-
-### 📝 使用说明
-1.  点击 GitHub 仓库里的「添加 README 说明」按钮
-2.  清空默认内容，粘贴上面的模板
-3.  把 `sk-f99xxxxxx` 替换成你自己的 DeepSeek API Key（也可以留空，只保留格式）
-4.  点击「提交变更」完成添加
-
-
-
-PPT 生成
-
-更多
-
